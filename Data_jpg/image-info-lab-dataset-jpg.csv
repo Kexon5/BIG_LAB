@@ -1,0 +1,31 @@
+ImageName;DirectionToCamera;FrameExist;FigureExist;FigureInPlaneSheet;FigureInFrame;FigureShape
+1.jpg;90;True;True;True;True;Full ellipse
+2.jpg;55;True;True;True;True;Full ellipse
+3.jpg;35;True;True;True;False;Full ellipse
+4.jpg;20;True;False;False;False;Nothing
+5.jpg;45;False;True;True;False;Full ellipse
+6.jpg;82;True;True;False;False;Full ellipse
+7.jpg;15;True;True;True;False;Full ellipse
+8.jpg;87;True;True;False;False;Full ellipse
+9.jpg;70;True;False;False;False;Nothing
+10.jpg;45;True;True;True;True;Full ellipse
+11.jpg;74;False;True;True;False;Cropped ellipse
+12.jpg;30;True;True;True;True;Cropped ellipse
+13.jpg;80;True;True;True;True;Cropped ellipse
+14.jpg;10;True;True;True;True;Full ellipse
+15.jpg;30;True;True;True;True;Full ellipse
+16.jpg;50;True;True;True;True;Full ellipse
+17.jpg;45;True;True;True;True;Full ellipse
+18.jpg;60;True;True;True;True;Full ellipse
+19.jpg;55;True;True;True;True;Full ellipse
+20.jpg;40;True;True;True;True;Full ellipse
+21.jpg;40;True;True;True;False;Full ellipse
+22.jpg;90;True;True;True;False;Full ellipse
+23.jpg;65;False;False;False;False;Nothing
+24.jpg;70;False;True;False;False;Full ellipse
+25.jpg;50;False;True;True;False;Cropped ellipse
+26.jpg;60;False;True;True;False;Cropped ellipse
+27.jpg;70;False;True;False;False;Cropped ellipse
+28.jpg;80;True;True;True;False;Cropped ellipse
+29.jpg;65;True;True;True;False;Cropped ellipse
+30.jpg;55;True;True;True;True;Cropped ellipse
