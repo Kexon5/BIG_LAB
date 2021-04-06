@@ -1,0 +1,26 @@
+﻿ImageName;FigureExist;FigureInPlaneSheet;FigureInFrame;FigureShape
+01.jpg;No;No;No;-
+02.jpg;No;No;No;-
+03.jpg;No ;No;No;-
+04.jpg;Not in the plane of the sheet;No;No;Full
+05.jpg;Yes;Yes;No;Full
+06.jpg;Not in the plane of the sheet;No;No;Full
+07.jpg;No;No;No;-
+08.jpg;Yes;Yes;Yes;Full
+09.jpg;Yes;Yes;Yes;Full
+10.jpg;Yes;Yes;Yes;Cropped
+11.jpg;Yes;Yes;Yes;Cropped
+12.jpg;Yes;Yes;Yes;Full
+13.jpg;Yes;Yes;Yes;Full
+14.jpg;Yes;Yes;Yes;Full
+15.jpg;Yes;Yes;Yes;Full
+16.jpg;Yes;Yes;Yes;Full
+17.jpg;Yes;Yes;Yes;Full
+18.jpg;Yes;Yes;Yes;Full
+19.jpg;Yes;Yes;No;Full
+20.jpg;Yes;No;No;Full
+21.jpg;Yes;Yes;No;Cropped
+22.jpg;Yes;Yes;No;Cropped
+23.jpg;Yes;Yes;Yes;Cropped
+24.jpg;Yes;Yes;No;Full
+25.jpg;No;No;No;-
